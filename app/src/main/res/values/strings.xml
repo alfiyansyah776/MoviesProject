@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Title">Title</string>
+    <string name="genre">genre</string>
+    <string name="score">Score :</string>
+    <string name="point">8.00</string>
+    <string name="Movies">Movies</string>
+    <string name="Tv">Tv Shows</string>
+    <string name="poster">Poster</string>
+    <string name="episode">Episode</string>
+    <string name="status">Finished</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="detail">Detail</string>
+    <string name="gendetail">Genre :</string>
+    <string name="durationdet">Duration :</string>
+    <string name="broadcast">Broadcast :</string>
+    <string name="studio">Studio :</string>
+    <string name="ratingdummy">Rating :</string>
+    <string name="statusd">Status</string>
+    <string name="scored">Score</string>
+    <string name="finished">Finished</string>
+    <string name="episodedummy">1</string>
+    <string name="share_text">Share %s to your friends</string>
+    <string name="mymovieslist">MyMoviesList</string>
+    <string name="language">Language</string>
+    <string name="aired">Aired</string>
+    <string name="languagedummy">EN</string>
+</resources>
